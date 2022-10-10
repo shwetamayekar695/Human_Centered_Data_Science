@@ -49,10 +49,10 @@ List of Dinosaur Articles: data/dinosaur_genera.cleaned.SEPT.2022.csv
 **PLOTS (.png files)**
 
 - plot_for_averages.png shows Maximum Average and Minimum Average Plot
-![plot_for_averages](https://github.com/shwetamayekar695/Human_Centered_Data_Science/blob/main/HW1-DATA512/results/plot_for_averages.png)
+![plot_for_averages](https://github.com/shwetamayekar695/Human_Centered_Data_Science/blob/main/data-512-homework_1/results/plot_for_averages.png)
 
 - plot_for_top_10_peak_views.png shows Top 10 Peak Page Views Plot
-![plot_for_top_10_peak_views](https://github.com/shwetamayekar695/Human_Centered_Data_Science/blob/main/HW1-DATA512/results/plot_for_top_10_peak_views.png)
+![plot_for_top_10_peak_views](https://github.com/shwetamayekar695/Human_Centered_Data_Science/blob/main/data-512-homework_1/results/plot_for_top_10_peak_views.png)
 
 - plot_for_fewest_months_of_data.png shows Fewest Months of Data Plot
-![plot_for_fewest_months_of_data](https://github.com/shwetamayekar695/Human_Centered_Data_Science/blob/main/HW1-DATA512/results/plot_for_fewest_months_of_data.png)
+![plot_for_fewest_months_of_data](https://github.com/shwetamayekar695/Human_Centered_Data_Science/blob/main/data-512-homework_1/results/plot_for_fewest_months_of_data.png)
