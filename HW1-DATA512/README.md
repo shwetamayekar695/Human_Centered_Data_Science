@@ -15,7 +15,7 @@ Terms of Use: [Wikimedia Foundation REST API terms of use](https://www.mediawiki
 ### Repository Structure
 
 ```bash
-└── HW1-DATA512
+└── data-512-homework_1
     ├── README.md
     ├── data
     │   ├── dino_monthly_cumulative_201507-202209.json
