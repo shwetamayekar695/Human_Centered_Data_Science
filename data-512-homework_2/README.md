@@ -48,7 +48,8 @@ Wikimedia Foundation REST API terms of use: [Wikimedia Terms & Conditions](https
 2) Final dataframe: wp_politicians_by_country.csv
 
 
-### Results from analysis are in tabular form in the python book src/Data_Preparation_and_Analysis_Results.ipynb
+### Results from analysis
+Results are in tabular form in the python notebook found here: src/Data_Preparation_and_Analysis_Results.ipynb
 
 1) Top 10 countries by coverage
 2) Bottom 10 countries by coverage
@@ -58,7 +59,7 @@ Wikimedia Foundation REST API terms of use: [Wikimedia Terms & Conditions](https
 6) Geographic regions by high quality coverage
 
 
-### Research Implication
+### Research Implications
 
 This project helped me source data from wikipedia articles and analyse their quality using the ORES machine learning model.
 
@@ -80,6 +81,5 @@ The number of articles from Southern, Eastern and Western Europe are 876, 725 an
 3) Can you think of a realistic data science research situation where using these data (to train a model, perform a hypothesis-driven research, or make business decisions) might still be appropriate and useful, despite its inherent limitations and biases?
 As mentioned above, the metric High-quality-articles-per-population (a ratio representing the number of high quality articles per population) seems like a good measure to analyse the goodness of the articles per country/region. Perhaps it can also be used to conduct data science research situation to perform a hypothesis-driven research for select countries with available data.
 Higher the ratio, higher the quality of articles generated from that country. One would assume that non-native English speaking countries would have lower quality articles, but that is not always the case. Countries such as Andorra, Slovenia, Lithuania, and many more come under top 10 countries with High-quality-articles-per-population.
-
 
 
