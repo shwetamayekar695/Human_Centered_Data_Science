@@ -61,6 +61,8 @@ ALWAYS        float64
 | FREQUENTLY    | float64   | survey response                                                     |
 | ALWAYS        | float64   | survey response                                                     |
 
+### Code:
+Code for analysis can be found in Part1_Project_Common_Analysis.ipynb
 
 ### Final Visualization:
 #### ![Final_Visualization_Part1_Analysis](https://github.com/shwetamayekar695/Human_Centered_Data_Science/blob/main/project/part1-common-analysis/Final_Visualization_Part1_Analysis.png)
