@@ -63,4 +63,4 @@ ALWAYS        float64
 
 
 ### Final Visualization:
-#### (https://github.com/shwetamayekar695/Human_Centered_Data_Science/blob/main/project/part1-common-analysis/Final_Visualization_Part1_Analysis.png)
+#### ![Final_Visualization_Part1_Analysis](https://github.com/shwetamayekar695/Human_Centered_Data_Science/blob/main/project/part1-common-analysis/Final_Visualization_Part1_Analysis.png)
