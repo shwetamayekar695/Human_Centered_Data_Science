@@ -68,7 +68,8 @@ Code for analysis can be found in Part1_Project_Common_Analysis.ipynb
 #### ![Visualization_of_Part1_Common_Analysis-DATA512](https://github.com/shwetamayekar695/Human_Centered_Data_Science/blob/main/project/part1-common-analysis/Visualization_of_Part1_Common_Analysis-DATA512.png)
 
 ### Visualization Summary:
-The rate of change in confirmed daily cases is the black dotted line.
-Since this is daily data, we observe a lot of variability throughout. However, if you observe the green phase where mask mandate was adopted, you will notice that the rate of change of cases is lower than prior rates until there is a sharp increase of about 14% in new cases. This could perhaps be because of the complacency of people wearing masks while observing the rate of Covid-19 cases going down (established earlier) and then choosing to remove masks owing to the decreased rate of change.
+The rate of change in confirmed daily cases is the black dotted line. Since this is daily data, we observe a lot of variability throughout. However, if you observe the green phase where mask mandate was adopted, you will notice that the rate of change of cases is lower than prior rates until there is a sharp increase of about 14% in new cases. This could perhaps be because of the complacency of people wearing masks while observing the rate of Covid-19 cases going down (established earlier) and then choosing to remove masks owing to the decreased rate of change.
+
 When the Governor officially lifted the Mask mandate in 2021 (Red phase), we again observe a sudden sharp increase in new cases. We can associate this steep rise due to relatively less or no usage of masks.
+
 As mentioned above, we do observe peaks and troughs in both blue and black lines despite having no direct relation with the available mask mandate data. Therefore, we conclude that the masking policies may not always have a direct impact on the progression of Covid-19 new cases. It is also very important to consider that people did not show symptoms right away after infection. It may have taken a few days for the testing results to become available especially during the early period of the pandemic in 2020.
