@@ -65,4 +65,4 @@ ALWAYS        float64
 Code for analysis can be found in Part1_Project_Common_Analysis.ipynb
 
 ### Final Visualization:
-#### ![Visualization of Part 1 Common Analysis - DATA512](https://github.com/shwetamayekar695/Human_Centered_Data_Science/blob/main/project/part1-common-analysis/Visualization of Part 1 Common Analysis - DATA512.png)
+#### ![Visualization_of_Part1_Common_Analysis-DATA512](https://github.com/shwetamayekar695/Human_Centered_Data_Science/blob/main/project/part1-common-analysis/Visualization_of_Part1_Common_Analysis-DATA512.png)
