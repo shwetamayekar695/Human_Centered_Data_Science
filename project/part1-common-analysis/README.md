@@ -15,7 +15,7 @@ This is a human centered data science analysis of some available COVID-19 data.
 #### Assigned County: Davidson, Tennessee
 
 ### Data Sources:
-- [John Hopkins University COVID-19 data](https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university).
+- [John Hopkins University COVID-19 data](https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university)
 - [Masking Mandates by County](https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i)
 - [Mask Compliance Survey](https://github.com/nytimes/covid-19-data/tree/master/mask-use)
 
@@ -61,6 +61,22 @@ ALWAYS        float64
 | FREQUENTLY    | float64   | survey response                                                     |
 | ALWAYS        | float64   | survey response                                                     |
 
+
+### External Research:
+Since there was no mask mandate data available in the given dataset for Tennessee State/Davidson County, I did some external research.
+
+Sources:
+- [Tennessee Areas without mask mandates show higher death rate](https://www.vumc.org/health-policy/news-events/tennessee-areas-without-mask-requirements-have-higher-death-toll-capita)
+- [US News Tennessee Mask Mandate Information](https://www.usnews.com/news/best-states/articles/these-are-the-states-with-mask-mandates#tenn)
+
+As per the first report on Tennessee counties, the areas where mask requirements were instituted showed substantially lower death rates due to COVID-19 as compared to areas without mask requirements, according to an analysis by Vanderbilt Department of Health Policy researchers.
+
+The analysis, led by John Graves, PhD, associate professor of Health Policy and director of the Vanderbilt Center for Health Economic Modeling, finds that early adopting counties in Tennessee saw their death rate begin to decline by late July of 2020, while later adopting counties saw declines in August and September. Non-adopting counties continue to see death rates rise, the researchers found.
+
+Additionally, mask requirements were adopted between July 10 2020 and first week of August 2020. Now death rate going high means that the case rate was also going high in this case.
+
+We do observe a dip in new cases after July 2020.
+
 ### Code:
 Code for analysis can be found in Part1_Project_Common_Analysis.ipynb
 
@@ -71,6 +87,6 @@ Code for analysis can be found in Part1_Project_Common_Analysis.ipynb
 ### Visualization Summary:
 The rate of change in confirmed daily cases is the black dotted line. Since this is daily data, we observe a lot of variability throughout. However, if you observe the green phase where mask mandate was adopted, you will notice that the rate of change of cases is lower than prior rates until there is a sharp increase of about 14% in new cases. This could perhaps be because of the complacency of people wearing masks while observing the rate of Covid-19 cases going down (go through code markdown statements) and then choosing to remove masks owing to the decreased rate of change.
 
-When the Governor of Tennessee officially lifted the Mask mandate in 2021 (Red phase), we again observe a sudden sharp increase in new cases. We can associate this steep rise due to relatively less or no usage of masks.
+When the Governor of Tennessee officially lifted the Mask mandate in 2021 (Red phase), Source: [US News Tennessee Mask Mandate Information](https://www.usnews.com/news/best-states/articles/these-are-the-states-with-mask-mandates#tenn), we again observe a sudden sharp increase in new cases. We can associate this steep rise due to relatively less or no usage of masks.
 
-We do observe peaks and troughs in both blue and black lines despite having no direct relation with the available mask mandate data. Therefore, we conclude that the masking policies may not always have a direct impact on the progression of Covid-19 new cases. It is also very important to consider that people did not show symptoms right away after infection. It may have taken a few days for the testing results to become available especially during the early period of the pandemic in 2020.
+Now, we do observe peaks and troughs in both blue and black lines on other timelines despite having no direct relation with the available mask mandate data. Therefore, we can say that the masking policies may not always have a direct impact on the progression of Covid-19 new cases. It is also very important to consider that people did not show symptoms right away after infection. It may have taken a few days for the testing results to become available especially during the early period of the pandemic in 2020.
