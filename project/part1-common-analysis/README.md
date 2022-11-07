@@ -75,7 +75,7 @@ As per the second report, Tennessee Gov. Bill Lee signed an executive order in A
 
 
 ### Code:
-Code for analysis can be found in Part1_Project_Common_Analysis.ipynb
+Code for analysis can be found here [Part1_Project_Common_Analysis.ipynb](https://github.com/shwetamayekar695/Human_Centered_Data_Science/blob/main/project/part1-common-analysis/Part1_Project_Common_Analysis.ipynb)
 
 
 ### Final Visualization:
