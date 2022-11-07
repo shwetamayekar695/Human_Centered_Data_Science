@@ -33,6 +33,7 @@ This is a human centered data science analysis of some available COVID-19 data.
 | FIPS           | float64   | Unique ID for county, state                                         |
 | \<date>        | int       | Confirmed number of cases for each day from 1/22/2020 to 10/30/2022 |
 
+
 ### Data Description for mask-mandate.csv (only relevant columns extracted)
 
 | Feature                        | Data type | Description                                          |
@@ -42,12 +43,6 @@ This is a human centered data science analysis of some available COVID-19 data.
 | date                           | String    | mask mandate date                                    |
 | Face_Masks_Required_in_Public  | String    | Yes/No for mask mandates                             |
 
-COUNTYFP        int64
-NEVER         float64
-RARELY        float64
-SOMETIMES     float64
-FREQUENTLY    float64
-ALWAYS        float64
 
 ### Data Description for mask-use-by-county.csv
 'NEVER', 'RARELY', 'SOMETIMES', 'FREQUENTLY', 'ALWAYS' are survey responses to “How often do you wear a mask in public when you expect to be within six feet of another person?”
