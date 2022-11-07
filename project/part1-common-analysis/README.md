@@ -1,6 +1,6 @@
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/shwetamayekar695/Human_Centered_Data_Science/blob/main/LICENSE)
 
-#Project - Part 1 - Common Analysis
+# Project - Part 1 - Common Analysis
 
 **DATA 512: Human-Centered Data Science**
 
