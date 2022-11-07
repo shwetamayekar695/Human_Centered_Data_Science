@@ -69,13 +69,10 @@ Sources:
 - [Tennessee Areas without mask mandates show higher death rate](https://www.vumc.org/health-policy/news-events/tennessee-areas-without-mask-requirements-have-higher-death-toll-capita)
 - [US News Tennessee Mask Mandate Information](https://www.usnews.com/news/best-states/articles/these-are-the-states-with-mask-mandates#tenn)
 
-As per the first report on Tennessee counties, the areas where mask requirements were instituted showed substantially lower death rates due to COVID-19 as compared to areas without mask requirements, according to an analysis by Vanderbilt Department of Health Policy researchers.
+As per the first report on Tennessee counties, the areas where mask requirements were instituted showed substantially lower death rates due to COVID-19 as compared to areas without mask requirements, according to an analysis by Vanderbilt Department of Health Policy researchers. The analysis, led by John Graves, PhD, associate professor of Health Policy and director of the Vanderbilt Center for Health Economic Modeling, finds that early adopting counties in Tennessee saw their death rate begin to decline by late July of 2020, while later adopting counties saw declines in August and September. Non-adopting counties continue to see death rates rise, the researchers found. Additionally, mask requirements were adopted between July 10 2020 and first week of August 2020. Now death rate going high means that the case rate was also going high in this case. We do observe a dip in new cases after July 2020.
 
-The analysis, led by John Graves, PhD, associate professor of Health Policy and director of the Vanderbilt Center for Health Economic Modeling, finds that early adopting counties in Tennessee saw their death rate begin to decline by late July of 2020, while later adopting counties saw declines in August and September. Non-adopting counties continue to see death rates rise, the researchers found.
+As per the second report, Tennessee Gov. Bill Lee signed an executive order in April 2021 that removed local authority on mask mandates. Coincidently, we do observe a sudden sharp increase in new cases following a few weeks of when the mandate was officially lifted. We can associate this sudden steep rise due to relatively less or no usage of masks.
 
-Additionally, mask requirements were adopted between July 10 2020 and first week of August 2020. Now death rate going high means that the case rate was also going high in this case.
-
-We do observe a dip in new cases after July 2020.
 
 ### Code:
 Code for analysis can be found in Part1_Project_Common_Analysis.ipynb
