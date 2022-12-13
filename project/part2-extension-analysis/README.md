@@ -60,7 +60,7 @@ For my extension analysis, I analyzed the impact of Covid-19 on the common man. 
 Code for analysis can be found here [Part2-Extension_Analysis.ipynb](https://github.com/shwetamayekar695/Human_Centered_Data_Science/blob/main/project/part2-extension-analysis/Part2-Extension_Analysis.ipynb)
 
 ## Research Questions:
-My focus was on analyzing the impact of Covid-19 in the Davidson County of Tennessee. Therefore, based on these research studies, I devised the following research questions -
+My focus was on analyzing the impact of Covid-19 on common man in the Davidson County of Tennessee. Based on my research, I devised the following questions -
 1) Did the rising cases of Covid-19 affect month-over-month employment growth in Davidson County?
 2) Did the consumer spending capacity take a hit due to rising cases & its impact on employment rate?
 3) Did the county’s vaccination rate stabilize these monetary measures - employment growth and consumer spending capacity?
