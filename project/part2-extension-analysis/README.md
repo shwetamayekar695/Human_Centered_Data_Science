@@ -74,6 +74,7 @@ My focus was on analyzing the impact of Covid-19 in the Davidson County of Tenne
 #### ![Trendlines_for_CCI_Employment_Growth](https://github.com/shwetamayekar695/Human_Centered_Data_Science/blob/main/project/part2-extension-analysis/visualizations/Trendlines_for_CCI_Employment_Growth.png)
 
 3) Correlation Analysis
+
 | Variables                                 | Confirmed new cases | Employment growth | CCI   | Count of 1st vaccine doses administered |
 |-------------------------------------------|---------------------|---------------------------------------------------------------------|
 | Confirmed new cases                       |  1                  |  -0.28            | -0.38 | -0.82                                   |
