@@ -30,7 +30,7 @@ For my extension analysis, I analyzed the impact of Covid-19 on the common man. 
 | Province_State | String    | The name of state                                                   |
 | Admin2         | String    | The name of the county                                              |
 | FIPS           | float64   | Unique ID for county, state                                         |
-| \<date>        | int       | Confirmed number of cases for each day from 1/22/2020 to 10/30/2022 |
+| date           | int       | Confirmed number of cases for each day from 1/22/2020 to 10/30/2022 |
 
 
 ### Data Description for "Employment by Industry Sector.csv" (only relevant columns extracted)
@@ -85,4 +85,5 @@ My focus was on analyzing the impact of Covid-19 in the Davidson County of Tenne
 
 ## Summary:
 You can see how the confirmed cases are negatively correlated with employment growth (-0.28). There is also a more significant negative correlation between confirmed cases and CCI (-0.38). However, when the first vaccine doses were administered there was an extremely significant positive correlation between vaccination doses and employment growth (0.9) as well as a positive correlation between vaccination doses and CCI (0.96). This shows a positive association between vaccination and monetary measures like employment growth and consumer confidence index.
+
 Post Vaccination drives, there was a 8.45% YEAR-OVER-YEAR GROWTH in Employment rate between May 2020 and May 2021. There was also a 1.5% YEAR-OVER-YEAR GROWTH in CCI between April 2020 and April 2021.
