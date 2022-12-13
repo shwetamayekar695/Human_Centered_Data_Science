@@ -18,10 +18,10 @@ For my extension analysis, I analyzed the impact of Covid-19 on the common man. 
 - [Vaccination data by CDC](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh/data)
 
 ## Input Data Files
-- Data/RAW_us_confirmed_cases.csv
-- Data/Employment by Industry Sector.csv
-- Data/consumer_confidence_index_USA.csv
-- Data/COVID-19_Vaccinations_in_the_United_States_DavidsonCounty.csv
+- data/RAW_us_confirmed_cases.csv
+- data/Employment by Industry Sector.csv
+- data/consumer_confidence_index_USA.csv
+- data/COVID-19_Vaccinations_in_the_United_States_DavidsonCounty.csv
 
 ### Data Description for RAW_us_confirmed_cases.csv (only relevant columns extracted)
 
