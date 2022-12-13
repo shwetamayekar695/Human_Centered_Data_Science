@@ -80,7 +80,7 @@ My focus was on analyzing the impact of Covid-19 in the Davidson County of Tenne
 | Confirmed new cases                       |  1                  |  -0.28            | -0.38 | -0.82                                   |
 | Employment growth                         | -0.28               |  1                |  0.63 |  0.90                                   |
 | CCI                                       | -0.38               |  0.63             |  1    |  0.96                                   |
-| Count of first vaccine doses administered | -0.82               |  0.90             |  0.96 |  1                                      |
+| Count of 1st vaccine doses administered.  | -0.82               |  0.90             |  0.96 |  1                                      |
 
 
 ## Summary:
